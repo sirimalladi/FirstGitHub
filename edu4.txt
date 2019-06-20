@@ -1,1 +1,2 @@
 first branch first file, modified in the first branch
+This is the line added in first branch for rebase operation
