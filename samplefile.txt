@@ -8,3 +8,5 @@ changes done in the file after clone
 this is some data
 
 These changes are done by Alic
+
+These are the changes doen to cause the conflict by Alice
