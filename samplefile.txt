@@ -7,4 +7,8 @@ changes done in the file after clone
 
 this is some data
 
+
 Changes done by Bob
+
+These changes are done by Alic
+
